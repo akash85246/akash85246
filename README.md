@@ -87,6 +87,7 @@
 <a href="https://www.behance.net/akashrajput113" target="_blank"><img src="https://img.shields.io/badge/Behance-akash%20rajput-1769FF"></a>
 <a href="https://dev.to/akash_rajput_dev" target="_blank"><img src="https://img.shields.io/badge/DEV-akash_rajput-0A0A0A"></a>
 <a href="https://medium.com/@akash.rajput.dev" target="_blank"><img src="https://img.shields.io/badge/Medium-akash_rajput-12100E"></a>
+[![Profile Views](https://komarev.com/ghpvc/?username=akash85246&style=flat-square&color=blue)](https://komarev.com/ghpvc/?username=akash85246)
 
 <!-- <a href="https://www.portfolio.com/akashrajput" target="_blank"><img src="https://img.shields.io/badge/Portfolio-akash%20rajput-0094FF"></a> -->
 

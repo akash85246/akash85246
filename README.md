@@ -32,7 +32,7 @@
     <li>💼 <strong>Looking for</strong>: Internship opportunities in Web Development and React.js</li>
     <li>😄 <strong>Pronouns</strong>: he/him</li>
   </ul>
-  <img src="./code.gif" alt="Code GIF" style="width: 100vw; height: auto;" align="center">
+  <img src="./code.gif" alt="Code GIF" style="width: 60vw; height: auto;" align="center">
 </div>
 <br>
 
@@ -55,11 +55,11 @@
 
 ## Github Stats
   <div style="display: flex; gap: 20px; margin-top: 20px; justify-content: center; align-items: center; ">
-    <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" style="height: 200px; width: 400px; object-fit: contain;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" style="height: 200px; width: 400px; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" style="height: 200px; width: 400px; object-fit: contain;" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" style="height: 200px; width: 400px; object-fit: contain;" align="center" />
   </div>
   <div style="display: flex; gap: 20px; margin-top: 20px; justify-content: center; align-items: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" align="center" />
   </div>
 <br>
 

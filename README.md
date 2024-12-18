@@ -1,6 +1,6 @@
-## <span style="color: #278D75;">Hi there!</span> 👋 Welcome to My Digital Realm
+## Hi there! 👋 Welcome to My Digital Realm
 
-✨ I’m <span style="color: #278D75;">Akash Rajput ✨</span> — A passionate developer, problem-solver, and tech enthusiast exploring the endless possibilities in the world of technology. This github profile is my way of showcasing my journey through code, innovation, and creativity.
+✨ I’m Akash Rajput ✨ — A passionate developer, problem-solver, and tech enthusiast exploring the endless possibilities in the world of technology. This GitHub profile is my way of showcasing my journey through code, innovation, and creativity.
 
 ![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -22,22 +22,28 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 <br>
 
-## Talking about Personal Stuff
-<div style="display: flex; margin-top: 20px; justify-content: space-between; width: 100%;">
-  <ul style="list-style: none; padding: 20px; font-family: 'Arial', sans-serif; font-size: 14px; color: #ffffff; width: 40vw;">
-    <li>🔭 <strong>Currently working on</strong>: My Secrets Site</li>
-    <li>🌱 <strong>Learning</strong>: Node.js & advanced React.js</li>
-    <li>👯 <strong>Open to collaborate on</strong>: Web & iOS development projects</li>
-    <li>⚡ <strong>Fun fact</strong>: I’m obsessed with ancient monuments and the magic of autumn 🍂</li>
-    <li>💼 <strong>Looking for</strong>: Internship opportunities in Web Development and React.js</li>
-    <li>😄 <strong>Pronouns</strong>: he/him</li>
-  </ul>
-  <img src="./code.gif" alt="Code GIF" style="width: 60vw; height: auto;" align="center">
-</div>
+
+<img align="right" height="250" width="375" alt="" src="./code.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; Currently working on My Secrets Site
+- 🚀 &nbsp; Learning Node.js & advanced React.js
+- 💬 &nbsp; Open to collaborate on Web & iOS development projects
+- 👾 &nbsp; Fun fact: I’m obsessed with ancient monuments and the magic of autumn 🍂
+- 📫 &nbsp; Looking for Internship opportunities in Web Development and React.js
+- 👨‍💻 &nbsp; Pronouns: he/him
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love learning new technologies and building cool stuff.
+- ⚛️ &nbsp; Fascinated by quantum computing.
+- 🏛️ &nbsp; Loves exploring ancient monuments.
 <br>
 
+
 ## Technical Badges
-<div style="display: flex; margin-top: 20px; width: 100%; gap: 1rem">
+<div style="display: flex; gap: 1rem">
   <img src="https://github.com/akash85246/akash85246/assets/130655814/eedc5ac9-40fc-4572-aaa4-9bb3b95bf917" style="height: 60px; width: 60px;" alt="Badge 1">
   <img src="https://raw.githubusercontent.com/akash85246/Badge-Images/main/badge2.webp" style="height: 60px; width: 60px;" alt="Badge 2">
   <img src="https://raw.githubusercontent.com/akash85246/Badge-Images/main/badge3.png" style="height: 60px; width: 60px;" alt="Badge 3">
@@ -45,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/akash85246/Badge-Images/main/badge5.png" style="height: 60px; width: 60px;" alt="Badge 5">
 </div>
 
-<div style="display: flex; margin-top: 20px; justify-content: space-between; align-items: center; width: 100%; ">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; ">
   <p>If you appreciate the work I do and find value in my projects, consider supporting me with a cup of coffee or tea. Your support goes a long way in helping me continue creating and improving my work. Thank you! 🥺👉👈</p>
   <a href="https://buymeacoffee.com/akashrajpus" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
@@ -54,12 +60,12 @@
 <br>
 
 ## Github Stats
-  <div style="display: flex; gap: 20px; margin-top: 20px; justify-content: center; align-items: center; ">
-    <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" style="height: 200px; width: 400px; object-fit: contain;" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" style="height: 200px; width: 400px; object-fit: contain;" align="center" />
+  <div style="display: flex; gap: 20px; justify-content: center; align-items: center; ">
+    <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" style="height: 200px; width: 400px; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" style="height: 200px; width: 400px; object-fit: contain;" />
   </div>
-  <div style="display: flex; gap: 20px; margin-top: 20px; justify-content: center; align-items: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" align="center" />
+  <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=8&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
   </div>
 <br>
 
@@ -82,8 +88,8 @@
 ---
 
 <p align="center">
-  यत्र विज्ञानं च कौशलं च, निर्माणं तत्र प्रतिष्ठितम्। 
-  </p>
-  <p align="center">
+  यत्र विज्ञानं च कौशलं च, निर्माणं तत्र प्रतिष्ठितम्।
+</p>
+<p align="center">
   यत्र बुद्धिः क्रियासंगता, तत्र भवति सिद्धिः सुनिश्चितम्।।
 </p>

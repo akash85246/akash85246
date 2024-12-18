@@ -73,7 +73,7 @@
 </p>
 <br>
 
-## Feel free to contact me :
+## Feel free to contact me 
 
 <a href="https://t.me/akash_rajput_dev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40akash_rajput-28a8ea"></a>
 <a href="https://www.linkedin.com/in/akash-rajput-68226833a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akash%20rajput-informational"></a>

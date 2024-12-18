@@ -1,20 +1,87 @@
-## Hi there 👋
+## <span style="color: #278D75;">Hi there!</span> 👋 Welcome to My Digital Realm
 
-**akash85246/akash85246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I’m <span style="color: #278D75;">Akash Rajput ✨</span> — A passionate developer, problem-solver, and tech enthusiast exploring the endless possibilities in the world of technology. This github profile is my way of showcasing my journey through code, innovation, and creativity.
 
-<img src="https://github.com/akash85246/akash85246/assets/130655814/eedc5ac9-40fc-4572-aaa4-9bb3b95bf917" style="height:60px; width: 60px;">
+![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2360BA63.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%232D2E3F.svg?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F7B93E.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-%232C4E8C.svg?style=for-the-badge&logo=blockchain&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+<br>
 
+## Talking about Personal Stuff
+<div style="display: flex; margin-top: 20px; justify-content: space-between; width: 100%;">
+  <ul style="list-style: none; padding: 20px; font-family: 'Arial', sans-serif; font-size: 14px; color: #ffffff; width: 40vw;">
+    <li>🔭 <strong>Currently working on</strong>: My Secrets Site</li>
+    <li>🌱 <strong>Learning</strong>: Node.js & advanced React.js</li>
+    <li>👯 <strong>Open to collaborate on</strong>: Web & iOS development projects</li>
+    <li>⚡ <strong>Fun fact</strong>: I’m obsessed with ancient monuments and the magic of autumn 🍂</li>
+    <li>💼 <strong>Looking for</strong>: Internship opportunities in Web Development and React.js</li>
+    <li>😄 <strong>Pronouns</strong>: he/him</li>
+  </ul>
+  <img src="./code.gif" alt="Code GIF" style="width: 40vw; height: auto;">
+</div>
+<br>
 
+## Technical Badges
+<div style="display: flex; margin-top: 20px; width: 100%; gap: 1rem">
+  <img src="https://github.com/akash85246/akash85246/assets/130655814/eedc5ac9-40fc-4572-aaa4-9bb3b95bf917" style="height: 60px; width: 60px;" alt="Badge 1">
+  <img src="https://raw.githubusercontent.com/akash85246/Badge-Images/main/badge2.webp" style="height: 60px; width: 60px;" alt="Badge 2">
+  <img src="https://raw.githubusercontent.com/akash85246/Badge-Images/main/badge3.png" style="height: 60px; width: 60px;" alt="Badge 3">
+  <img src="https://raw.githubusercontent.com/akash85246/Badge-Images/main/badge4.png" style="height: 60px; width: 60px;" alt="Badge 4">
+  <img src="https://raw.githubusercontent.com/akash85246/Badge-Images/main/badge5.png" style="height: 60px; width: 60px;" alt="Badge 5">
+</div>
 
-- 🔭 I’m currently working on my blog site
-- 🌱 I’m currently learning node.js
-- 👯 I’m looking to collaborate on react.js
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+<div style="display: flex; margin-top: 20px; justify-content: space-between; align-items: center; width: 100%; ">
+  <p>If you appreciate the work I do and find value in my projects, consider supporting me with a cup of coffee or tea. Your support goes a long way in helping me continue creating and improving my work. Thank you! 🥺👉👈</p>
+  <a href="https://buymeacoffee.com/akashrajpus" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</div>
+<br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=radical)
+## Github Stats
+  <div style="display: flex; gap: 20px; margin-top: 20px; justify-content: center; align-items: center; ">
+    <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" style="height: 200px; width: 400px; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" style="height: 200px; width: 400px; object-fit: contain;" />
+  </div>
+  <div style="display: flex; gap: 20px; margin-top: 20px; justify-content: center; align-items: center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
+  </div>
+<br>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=radical)!
+## Feel free to contact me :
+<a href="https://t.me/akash_rajput_dev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40akash_rajput-28a8ea"></a>
+<a href="https://www.linkedin.com/in/akash-rajput-68226833a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akash%20rajput-informational"></a>
+<a href="mailto:akash.rajput.dev@gmail.com"><img src="https://img.shields.io/badge/Email-akash.rajput.dev%40gmail.com-orange"></a>
+<a href="https://github.com/akash85246" target="_blank"><img src="https://img.shields.io/badge/GitHub-akash85246-black"></a>
+<a href="https://codeforces.com/profile/akash22164033" target="_blank"><img src="https://img.shields.io/badge/Codeforces-akash_rajput-1F8ACB"></a>
+<a href="https://www.codechef.com/users/akash8956" target="_blank"><img src="https://img.shields.io/badge/CodeChef-akash_rajput-blue"></a>
+<a href="https://github.com/akash85246" target="_blank"><img src="https://img.shields.io/badge/GitHub-akash85246-black"></a>
+<a href="https://x.com/akash_rajp91025" target="_blank"><img src="https://img.shields.io/badge/Twitter-akash_rajput-1DA1F2"></a>
+<a href="https://stackoverflow.com/users/26553465/akash-rajput" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-akash%20rajput-FE7A16"></a>
+<a href="https://www.behance.net/akashrajput113" target="_blank"><img src="https://img.shields.io/badge/Behance-akash%20rajput-1769FF"></a>
+<a href="https://dev.to/akash_rajput_dev" target="_blank"><img src="https://img.shields.io/badge/DEV-akash_rajput-0A0A0A"></a>
+<a href="https://medium.com/@akash.rajput.dev" target="_blank"><img src="https://img.shields.io/badge/Medium-akash_rajput-12100E"></a>
+
+<!-- <a href="https://www.portfolio.com/akashrajput" target="_blank"><img src="https://img.shields.io/badge/Portfolio-akash%20rajput-0094FF"></a> -->
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; font-family: 'Arial', sans-serif; font-size: 14px; color: #555; padding: 10px; background-color: transparent;">
+  <span style="flex: 1; text-align: left; font-weight: normal;">यत्र विज्ञानं च कौशलं च, निर्माणं तत्र प्रतिष्ठितम्।<br>यत्र बुद्धिः क्रियासंगता, तत्र भवति सिद्धिः सुनिश्चितम्।।</span>
+  <span style="flex: 1; text-align: right; font-weight: normal;">Where knowledge and skill reside, creation is established.<br>Where intellect is combined with action, success is certain.</span>
+</div>

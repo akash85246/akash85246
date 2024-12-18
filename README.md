@@ -24,7 +24,7 @@
 
 <img align="right" height="250" width="375" alt="" src="./code.gif" />
 
-### Talking about Personal Stuff:
+### Talking about Personal Stuff
 
 - 🛠 &nbsp; Currently working on My Secrets Site
 - 🚀 &nbsp; Learning Node.js & advanced React.js
@@ -33,7 +33,7 @@
 - 📫 &nbsp; Looking for Internship opportunities in Web Development and React.js
 - 👨‍💻 &nbsp; Pronouns: he/him
 
-### My Absolute Favorites:
+### My Absolute Favorites
 
 - 💻 &nbsp; I love learning new technologies and building cool stuff.
 - ⚛️ &nbsp; Fascinated by quantum computing.

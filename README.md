@@ -22,7 +22,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 <br>
 
-
 <img align="right" height="250" width="375" alt="" src="./code.gif" />
 
 ### Talking about Personal Stuff:
@@ -39,10 +38,10 @@
 - 💻 &nbsp; I love learning new technologies and building cool stuff.
 - ⚛️ &nbsp; Fascinated by quantum computing.
 - 🏛️ &nbsp; Loves exploring ancient monuments.
-<br>
-
+  <br>
 
 ## Technical Badges
+
 <div style="display: flex; gap: 1rem">
   <img src="https://github.com/akash85246/akash85246/assets/130655814/eedc5ac9-40fc-4572-aaa4-9bb3b95bf917" style="height: 60px; width: 60px;" alt="Badge 1">
   <img src="https://raw.githubusercontent.com/akash85246/Badge-Images/main/badge2.webp" style="height: 60px; width: 60px;" alt="Badge 2">
@@ -60,17 +59,20 @@
 <br>
 
 ## Github Stats
+
   <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" style="height: 200px; width: 400px; object-fit: contain;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" style="height: 200px; width: 400px; object-fit: contain;" />
 </div>
+<br>
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" style="height: auto; width: 100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash85246&show_icons=true&theme=gotham" alt="GitHub Streak Stats" loading="lazy" style="height: auto; width: 100%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" style="height: 200px; width: 400px; " />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash85246&show_icons=true&theme=gotham" alt="GitHub Streak Stats" loading="lazy" style="height: 200px; width: 400px; " />
 </div>
 <br>
 
 ## Feel free to contact me :
+
 <a href="https://t.me/akash_rajput_dev" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40akash_rajput-28a8ea"></a>
 <a href="https://www.linkedin.com/in/akash-rajput-68226833a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akash%20rajput-informational"></a>
 <a href="mailto:akash.rajput.dev@gmail.com"><img src="https://img.shields.io/badge/Email-akash.rajput.dev%40gmail.com-orange"></a>

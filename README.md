@@ -60,13 +60,14 @@
 <br>
 
 ## Github Stats
-  <div style="display: flex; gap: 20px; justify-content: center; align-items: center; ">
+  <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" style="height: 200px; width: 400px; object-fit: contain;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" style="height: 200px; width: 400px; object-fit: contain;" />
-  </div>
-  <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=8&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
-  </div>
+</div>
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" style="height: auto; width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash85246&show_icons=true&theme=gotham" alt="GitHub Streak Stats" loading="lazy" style="height: auto; width: 100%;" />
+</div>
 <br>
 
 ## Feel free to contact me :

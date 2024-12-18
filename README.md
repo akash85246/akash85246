@@ -61,14 +61,14 @@
 ## Github Stats
 
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" width="300px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" width="300px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" width="300px" style="margin-right: 20px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" width="300px" height="150px" />
 </p>
 
 <br>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" width="300px" />
+    <img src="https://github-profile-trophy.vercel.app/?username=akash85246&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" width="300px" style="margin-right: 20px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash85246&show_icons=true&theme=gotham" alt="GitHub Streak Stats" loading="lazy" width="300px" />
 </p>
 <br>

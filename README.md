@@ -32,7 +32,7 @@
     <li>💼 <strong>Looking for</strong>: Internship opportunities in Web Development and React.js</li>
     <li>😄 <strong>Pronouns</strong>: he/him</li>
   </ul>
-  <img src="./code.gif" alt="Code GIF" style="width: 40vw; height: auto;">
+  <img src="./code.gif" alt="Code GIF" style="width: 100vw; height: auto;" align="center">
 </div>
 <br>
 
@@ -81,7 +81,9 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; font-family: 'Arial', sans-serif; font-size: 14px; color: #555; padding: 10px; background-color: transparent;">
-  <span style="flex: 1; text-align: left; font-weight: normal;">यत्र विज्ञानं च कौशलं च, निर्माणं तत्र प्रतिष्ठितम्।<br>यत्र बुद्धिः क्रियासंगता, तत्र भवति सिद्धिः सुनिश्चितम्।।</span>
-  <span style="flex: 1; text-align: right; font-weight: normal;">Where knowledge and skill reside, creation is established.<br>Where intellect is combined with action, success is certain.</span>
-</div>
+<p align="center">
+  यत्र विज्ञानं च कौशलं च, निर्माणं तत्र प्रतिष्ठितम्। 
+  </p>
+  <p align="center">
+  यत्र बुद्धिः क्रियासंगता, तत्र भवति सिद्धिः सुनिश्चितम्।।
+</p>

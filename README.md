@@ -62,7 +62,7 @@
 
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=akash85246&show_icons=true&theme=gotham" alt="Github Stats" width="300px" style="margin-right: 20px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true&theme=gotham" alt="Top Languages" width="300px" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash85246&show_icons=true" alt="Top Languages" width="300px" height="150px" />
 </p>
 
 <br>
